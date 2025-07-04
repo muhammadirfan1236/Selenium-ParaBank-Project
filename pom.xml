@@ -12,17 +12,27 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+     <cucumber.version>7.14.0</cucumber.version>
   </properties>
+  
+
+
 
 
 
   <dependencies>
+  
+  
+  
+  
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.13.2</version>
+        <scope>test</scope>
     </dependency>
+
+
     
       
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
@@ -31,6 +41,12 @@
     <artifactId>selenium-java</artifactId>
     <version>4.33.0</version> <!-- or higher -->
 </dependency>
+
+<dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-java</artifactId>
+        <version>${cucumber.version}</version>
+    </dependency>
 
 
 <dependency>
@@ -53,7 +69,20 @@
 </dependency>
 
 
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+<dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-junit</artifactId>
+        <version>${cucumber.version}</version>
+        <scope>test</scope>
+    </dependency>
 
+
+<dependency>
+        <groupId>io.cucumber</groupId>
+        <artifactId>cucumber-testng</artifactId>
+        <version>${cucumber.version}</version>
+    </dependency>
 
     
     
