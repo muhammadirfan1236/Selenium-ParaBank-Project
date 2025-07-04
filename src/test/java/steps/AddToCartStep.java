@@ -22,10 +22,7 @@ public class AddToCartStep {
 
 	WebDriver driver =Hooks.driver;
 	
-	
-	
-	
-	
+
 	
 	@Given("User navigate to the BookCart application")
 	public void userNavigateToTheBookCartApplication() {
