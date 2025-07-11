@@ -15,10 +15,10 @@ This project is a **Selenium WebDriver automation framework** developed in **Jav
 
 ---
 
-✅ Implemented Test Cases
+## ✅ Implemented Test Cases
 
 
-🔐 Login Test	Valid 
+🔐 Login Test 
 
 📝 Register Test	
 
