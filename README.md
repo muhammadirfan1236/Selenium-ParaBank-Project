@@ -15,6 +15,22 @@ This project is a **Selenium WebDriver automation framework** developed in **Jav
 
 ---
 
+✅ Implemented Test Cases
+
+
+🔐 Login Test	Valid 
+
+📝 Register Test	
+
+📊 Account Overview	
+
+🔁 Transfer Funds
+
+🔍 Find Transactions	
+
+🚪 Logout Test	
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -23,3 +39,5 @@ This project is a **Selenium WebDriver automation framework** developed in **Jav
 git clone https://github.com/your-username/selenium-parabank-automation.git
 
 cd selenium-parabank-automation
+
+
