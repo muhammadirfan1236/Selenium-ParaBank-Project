@@ -33,11 +33,6 @@ public class LoginTest extends BaseTest {
 		
 		
 		
-		
-		
-
-		
-		
 		try {
 			Thread.sleep(1000);
 		} catch (InterruptedException e) {
