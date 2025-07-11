@@ -5,18 +5,17 @@ The framework follows the **Page Object Model (POM)** design pattern for clean a
 
 ---
 
-## 📂 Project Structure
 selenium-parabank-automation/
 ├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── com/parabank/pages/ # Page classes (LoginPage, HomePage, etc.)
-│ └── test/
-│ └── java/
-│ └── com/parabank/tests/ # Test classes (LoginTest, RegisterTest, etc.)
-├── testng.xml # TestNG suite file
-├── pom.xml # Maven project file
-└── README.md # Project documentation
+│   ├── main/
+│   │   └── java/
+│   │       └── com/parabank/pages/         # Page classes (LoginPage, HomePage, etc.)
+│   └── test/
+│       └── java/
+│           └── com/parabank/tests/         # Test classes (LoginTest, RegisterTest, etc.)
+├── testng.xml                              # TestNG suite file
+├── pom.xml                                 # Maven project file
+└── README.md                               # Project documentation
 
 ---
 
