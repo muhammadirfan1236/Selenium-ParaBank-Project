@@ -5,12 +5,18 @@ This project is a **Selenium WebDriver automation framework** developed in **Jav
 
 ## 📌 Key Features
 
--✅ Automated end-to-end UI testing
--✅ Page Object Model (POM) design for better maintainability
--✅ TestNG for structured test execution
--✅ Maven for dependency management and build
--✅ Allure Reports for rich, visual test reporting (optional)
--✅ Cross-browser test-ready structure
+- ✅ Automated end-to-end UI testing
+- 
+-
+- ✅ Page Object Model (POM) design for better maintainability
+-
+- ✅ TestNG for structured test execution
+-
+- ✅ Maven for dependency management and build
+-
+- ✅ Allure Reports for rich, visual test reporting (optional)
+-
+- ✅ Cross-browser test-ready structure
 
 
 
