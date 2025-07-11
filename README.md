@@ -1,55 +1,59 @@
-# 🧪 Selenium Parabank Automation Project
+# 🧪 Selenium Parabank Automation Framework using Java
 
-This is an automated UI testing framework built with **Selenium WebDriver**, **Java**, and **TestNG**, focused on testing the [Parabank demo site](https://parabank.parasoft.com/).
-The framework follows the **Page Object Model (POM)** design pattern for clean and maintainable code.
+This project is a **Selenium WebDriver automation framework** developed in **Java** using **TestNG**, targeting the [Parabank demo banking website](https://parabank.parasoft.com/). It follows the **Page Object Model (POM)** design pattern and integrates with tools like Maven
 
 ---
+
+## 📌 Key Features
+
+- ✅ Automated end-to-end UI testing
+- ✅ Page Object Model (POM) design for better maintainability
+- ✅ TestNG for structured test execution
+- ✅ Maven for dependency management and build
+- ✅ Cross-browser test-ready structure
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+
+git clone https://github.com/muhammadirfan1236/selenium-parabank-automation.git
+cd selenium-parabank-automation
+
+✅ Implemented Test Cases
+Test Case	Description
+🔐 Login Test
+📝 Register Test
+📊 Account Overview	
+🔁 Transfer Funds	
+🔍 Find Transactions
+🚪 Logout Test
+
+dev
+
+🔧 Dependencies
+Java 17+ 
+Maven 3.6+
+Selenium WebDriver
+TestNG
+WebDriverManager
+
+
+
+🧰 Project Structure
 
 selenium-parabank-automation/
 ├── src/
 │   ├── main/
 │   │   └── java/
-│   │       └── com/parabank/pages/         # Page classes (LoginPage, HomePage, etc.)
+│   │       └── com/parabank/pages/         # Page classes (e.g., LoginPage, RegisterPage)
 │   └── test/
 │       └── java/
-│           └── com/parabank/tests/         # Test classes (LoginTest, RegisterTest, etc.)
-├── testng.xml                              # TestNG suite file
-├── pom.xml                                 # Maven project file
+│           └── com/parabank/tests/         # Test classes (e.g., LoginTest, RegisterTest)
+├── testng.xml                              # TestNG suite configuration
+├── pom.xml                                 # Maven project configuration
+├── .gitignore                              # Files/folders to ignore in Git
 └── README.md                               # Project documentation
-
----
-
-## 🛠️ Tech Stack
-
-- **Java 17+**
-- **Selenium WebDriver**
-- **TestNG**
-- **Maven**
-- **Page Object Model (POM)**
-- **Allure Reports (optional)**
-
-
-✅ Test Cases Implemented
-🔐 Login Test – Valid and invalid login scenarios
-
-📝 Register Test – Create new user accounts
-
-💼 Account Overview – Navigate and verify account summaries
-
-💸 Transfer Funds – Verify fund transfers
-
-🔍 Find Transactions – Search transaction history
-
-🚪 Logout Test
-
-
-
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/muhammadirfan1236/selenium-parabank-automation.git
-cd selenium-parabank-automation
 
