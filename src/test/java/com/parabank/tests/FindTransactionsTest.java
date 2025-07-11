@@ -23,7 +23,7 @@ public class FindTransactionsTest extends BaseTest {
 		  driver.get("https://parabank.parasoft.com/parabank/index.htm");
 			
 			LoginPage loginPage=new LoginPage(driver);
-			loginPage.login("kurwa1", "irfanK@123321");
+			loginPage.login("user3", "irfanK@123321");
 			
 			
 	        driver.get("https://parabank.parasoft.com/parabank/findtrans.htm");

@@ -20,7 +20,7 @@ public class RegisterTest extends BaseTest {
 	public void testUserRegistration() {
 	
 		RegisterPage registerPage = new RegisterPage(driver);
-		registerPage.fillForm("suck1", "Gulzar", "Test St", "Krakow", "Malopolskie",
+		registerPage.fillForm("sack1", "Gulzar", "Test St", "Krakow", "Malopolskie",
                 "30-001", "144456755", "999-99-9999",
                 "wasim12", "irfanK@123321");
 //System.currentTimeMillis()
