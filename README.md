@@ -9,7 +9,6 @@ This project is a **Selenium WebDriver automation framework** developed in **Jav
 - ✅ Page Object Model (POM) design for better maintainability
 - ✅ TestNG for structured test execution
 - ✅ Maven for dependency management and build
-- ✅ Allure Reports for rich, visual test reporting (optional)
 - ✅ Cross-browser test-ready structure
 
 
@@ -35,7 +34,7 @@ This project is a **Selenium WebDriver automation framework** developed in **Jav
 ### 1. Clone the Repository
 
 
-git clone https://github.com/muhammadirfan1236/selenium-parabank-automation.git
+git clone https://github.com/muhammadirfan1236/Selenium-ParaBank-Project.git
 
 cd selenium-parabank-automation
 
