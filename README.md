@@ -2,7 +2,7 @@
 
 This project is a **Selenium WebDriver automation framework** developed in **Java** using **TestNG**, targeting the [Parabank demo banking website](https://parabank.parasoft.com/). It follows the **Page Object Model (POM)** design pattern and integrates with tools like Maven 
 
----
+
 
 ## 📌 Key Features
 
@@ -13,7 +13,7 @@ This project is a **Selenium WebDriver automation framework** developed in **Jav
 - ✅ Allure Reports for rich, visual test reporting (optional)
 - ✅ Cross-browser test-ready structure
 
----
+
 
 ## ✅ Implemented Test Cases
 
