@@ -48,8 +48,6 @@ public class LoginTest extends BaseTest {
 
 	}
 	 
-	 
-	
 
     @Test(enabled=false)
     public void testInvalidLogin() {
