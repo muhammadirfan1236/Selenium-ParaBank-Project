@@ -35,7 +35,7 @@ This project is a **Selenium WebDriver automation framework** developed in **Jav
 ### 1. Clone the Repository
 
 
-git clone https://github.com/your-username/selenium-parabank-automation.git
+git clone https://github.com/muhammadirfan1236/selenium-parabank-automation.git
 
 cd selenium-parabank-automation
 
